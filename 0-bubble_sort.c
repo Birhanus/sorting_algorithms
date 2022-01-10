@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * bubble_sort - a function that sorts an array of integers in ascg order 
+ * bubble_sort - a function that sorts an array of integers in ascg order
  * @array: sort array.
  * @size: size of array.
  * Return: Void function.
